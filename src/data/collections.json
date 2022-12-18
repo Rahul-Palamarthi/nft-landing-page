@@ -1,0 +1,58 @@
+{
+    "hot-collections": [
+        {
+            "id": "hc1",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc1.webp",
+            "name": "Moonbirds",
+            "info": "Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit."
+        },
+        {
+            "id": "hc2",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc2.webp",
+            "name": "Clone X - X Takashi Murakami",
+            "info": "Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac."
+        },
+        {
+            "id": "hc3",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc3.webp",
+            "name": "Mutant Ape Yacht Club",
+            "info": "Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus."
+        },
+        {
+            "id": "hc4",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc4.webp",
+            "name": "\"MOAR\" by Joan Cornella",
+            "info": "Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit."
+        },
+        {
+            "id": "hc5",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
+            "name": "Doodles",
+            "info": "Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac."
+        },
+        {
+            "id": "hc6",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc6.webp",
+            "name": "KIWAMI Genesis",
+            "info": "Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus."
+        },
+        {
+            "id": "hc7",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc7.webp",
+            "name": "Arcade Land",
+            "info": "Faucibus odio elementum nulla venenatis, libero. Ullamcorper duis fringilla pulvinar nibh diam sit."
+        },
+        {
+            "id": "hc8",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc8.webp",
+            "name": "Goons of Balatroon",
+            "info": "Magna in condimentum praesent pretium vitae mattis facilisis nunc. Lectus in ac ac."
+        },
+        {
+            "id": "hc9",
+            "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc9.webp",
+            "name": "Meta Toy DragonZ",
+            "info": "Sit aenean porttitor sit lectus. Adipiscing egestas etiam eget cursus nulla risus euismod. Netus."
+        }
+    ]
+}

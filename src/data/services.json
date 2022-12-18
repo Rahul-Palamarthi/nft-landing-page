@@ -1,0 +1,26 @@
+[
+    {
+        "id": "s1",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/services-home.webp",
+        "title": "Host your NFTs",
+        "description": "Egestas tellus nunc proin amet tellus tincidunt lacus consequat. Ultrices"
+    },
+    {
+        "id": "s2",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/services-sales.webp",
+        "title": "See your sales",
+        "description": "Integer ante non nunc, eget est justo vel semper nunc. Lacus "
+    },
+    {
+        "id": "s3",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/services-wallet.webp",
+        "title": "Secure wallet",
+        "description": "Sed faucibus faucibus egestas volutpat, accumsan adipiscing egestas est. Auctor et leo urna est."
+    },
+    {
+        "id": "s4",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/services-noscam.webp",
+        "title": "No scam",
+        "description": "Sed faucibus faucibus egestas volutpat, accumsan adipiscing egestas est. Auctor et leo urna est."
+    }
+]

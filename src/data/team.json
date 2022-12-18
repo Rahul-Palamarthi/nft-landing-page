@@ -1,0 +1,26 @@
+[
+    {
+        "id": "t1",
+        "name": "Guy Hawkins",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/teamprofile1.webp",
+        "category": "CEO"
+    },
+    {
+        "id": "t2",
+        "name": "Jane Cooper",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/teamprofile2.webp",
+        "category": "COO"
+    },
+    {
+        "id": "t3",
+        "name": "Darrell Steward",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/teamprofile3.webp",
+        "category": "CTO"
+    },
+    {
+        "id": "t4",
+        "name": "Dianne Russell",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/teamprofile4.webp",
+        "category": "CDO"
+    }
+]
