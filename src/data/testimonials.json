@@ -1,65 +1,79 @@
 [
     {
         "id": "t1",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t1.webp",
+        "profile": "Brooklyn Simmons",
+        "username": "@brooklynsimmons",
+        "review": "Sit ut diam bibendum dolor. Ullamcorper pharetra nibh eget vitae pulvinar. Placerat sapien, dolor, aenean vivamus in tincidunt et. Mauris dolor vestibulum et lacus a ante orci."
     },
     {
         "id": "t2",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t2.webp",
+        "profile": "Esther Howard",
+        "username": "@estherhhoward",
+        "review": "Vitae tellus bibendum nibh integer auctor pretium sed. Sollicitudin tristique euismod elit."
     },
     {
         "id": "t3",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t3.webp",
+        "profile": "Kristin Watson",
+        "username": "@KristinWatson",
+        "review": "Lectus dolor fermentum gravida ut sit vel. Enim. Lorem ipsum will never be the same again so purchase Zeus UI now or web trying."
     },
     {
         "id": "t4",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t4.webp",
+        "profile": "Dianne Russell",
+        "username": "@DianneRussell",
+        "review": "Eu luctus tincidunt vulputate praesent interdum proin. Magna gravida at pretium vitae. Viverra."
     },
     {
         "id": "t5",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t5.webp",
+        "profile": "Arlene McCoy",
+        "username": "@ArleneMcCoy",
+        "review": "Eu eu eget lorem commodo sagittis enim in viverra. Urna egestas ipsum gravida tempor. Libero, consectetur urna in enim magnis. Est."
     },
     {
         "id": "t6",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t6.webp",
+        "profile": "Leslie Alexander",
+        "username": "@LeslieAlexander",
+        "review": "Varius bibendum quis ipsum sit. Enim ante donec erat neque semper. Consectetur sed imperdiet tortor duis nulla aliquet at integer."
     },
     {
         "id": "t7",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t7.webp",
+        "profile": "Eleanor Pena",
+        "username": "@EleanorPena",
+        "review": "Amet quam velit nisl et et. Fusce ante facilisi vulputate eget aliquet mi sem eu vulputate."
     },
     {
         "id": "t8",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t8.webp",
+        "profile": "Jane Cooper",
+        "username": "@JaneCooper",
+        "review": "Amet aliquam, volutpat nisl, duis sed at. Vehicula proin consectetur risus dictumst nec amet consequat at tempus. Ornare dapibus nunc fames nibh morbi viverra eu sed mattis."
     },
     {
         "id": "t9",
-        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/hc5.webp",
-        "profile": "",
-        "username": "",
-        "review": ""
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t9.webp",
+        "profile": "Darlene Robertson",
+        "username": "@DarleneRobertson",
+        "review": "Imperdiet sed tellus tempor vitae elit a. Arcu a."
+    },
+    {
+        "id": "t10",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t10.webp",
+        "profile": "Jerome Bell",
+        "username": "@johnkappa",
+        "review": "This is the original component. Edit me to make global changes to all. 🎉"
+    },
+    {
+        "id": "t11",
+        "img": "https://raw.githubusercontent.com/Rahul-Palamarthi/nft-landing-page/main/src/assets/images/t3.webp",
+        "profile": "Devon Lane",
+        "username": "@johnkappa",
+        "review": "This is the original component. Edit me to make global changes to all. 🎉"
     }
 ]
