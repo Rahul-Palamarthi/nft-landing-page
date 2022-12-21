@@ -1,0 +1,42 @@
+.team-heading {
+    text-align: center;
+    font-size: clamp(2.25rem, calc(2.05rem + 0.98vw), 3rem);
+    font-family: var(--sync);
+    margin-block: 0.4em;
+}
+
+.team-info {
+    width: min(100%, 820px);
+    text-align: center;
+    margin: 0 auto;
+    font-family: var(--space);
+    color: var(--purple);
+}
+
+.team-profile-cards-wrapper {
+    margin: 3em auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    place-items: center;
+}
+
+.team-profile-card {
+    text-align: center;
+}
+
+.team-profile-card-title {
+    font-family: var(--space);
+    margin: 0.25em 0;
+}
+
+.team-profile-card-category {
+    font-family: var(--space);
+    color: var(--purple);
+}
+
+@media (max-width: 750px) {
+    .team-profile-cards-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2em;
+    }
+}

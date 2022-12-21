@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "Space";
+    src: url(./assets/fonts/SpaceGrotesk-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Space";
+    src: url(./assets/fonts/SpaceGrotesk-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Syne";
+    src: url(./assets/fonts/Syne-SemiBold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Sync";
+    src: url(./assets/fonts/Syne-Bold.ttf);
+    font-weight: bolder;
+    font-style: normal;
+}
+
+:root {
+    --space: "Space";
+    --sync: "Sync";
+    --white: #ffffff;
+    --black: #000000;
+    --grey: #808080;
+    --purple: #532c59;
+    --pink: #f8e0fb;
+    --transition-300: 300ms ease;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #fcfaff;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--purple);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--grey);
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html {
+    font-size: 1rem;
+    background-color: var(--white);
+    overflow-x: hidden;
+}
+
+.min-width {
+    width: min(95%, 1500px);
+    margin-inline: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+span {
+    display: inline-block;
+}
+
+button {
+    outline: none;
+    display: inline-block;
+}
+
+main {
+    background-color: #fcfaff;
+}
+
+section {
+    scroll-padding: 50px;
+}

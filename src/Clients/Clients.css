@@ -1,0 +1,21 @@
+.clients-wrapper {
+    padding: 2em 0;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    place-items: center;
+    gap: 1.5em;
+}
+
+.clients-img-wrapper {
+    width: clamp(5.31rem, calc(4.26rem + 5.28vw), 9.38rem);
+}
+
+.clients-img-wrapper img {
+    width: 100%;
+}
+
+@media (max-width: 1340px) {
+    .clients-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
